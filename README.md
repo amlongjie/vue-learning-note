@@ -19,11 +19,11 @@ Vue 的核心库只关注视图层，它不仅易于上手，还便于与第三�
 
 一进入官网就看到了起步.
 
-![image.png](http://upload-images.jianshu.io/upload_images/2656062-2e07ccaed737d8b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2656062-2e07ccaed737d8b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 跳转到这个页面.发现有样例可以下载.
 
-![image.png](http://upload-images.jianshu.io/upload_images/2656062-8e5a73e00ad23aae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2656062-8e5a73e00ad23aae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 下载后打开代码.
@@ -56,7 +56,7 @@ Vue 的核心库只关注视图层，它不仅易于上手，还便于与第三�
 
 打开浏览器
 
-![image.png](http://upload-images.jianshu.io/upload_images/2656062-08bf579e704ef504.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2656062-08bf579e704ef504.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 我们再回头看代码.重点关注下面几行.
 
@@ -117,6 +117,6 @@ var app = new Vue({
 
 展示:
 
-![image.png](http://upload-images.jianshu.io/upload_images/2656062-426a3afa783761c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2656062-426a3afa783761c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 所有类型都进行了正确的展示.Ok,入门完成.
