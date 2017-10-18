@@ -56,7 +56,7 @@ Vue 的核心库只关注视图层，它不仅易于上手，还便于与第三�
 
 打开浏览器
 
-![](http://upload-images.jianshu.io/upload_images/2656062-08bf579e704ef504.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2656062-08bf579e704ef504.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
 我们再回头看代码.重点关注下面几行.
 
@@ -117,6 +117,6 @@ var app = new Vue({
 
 展示:
 
-![](http://upload-images.jianshu.io/upload_images/2656062-426a3afa783761c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2656062-426a3afa783761c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
 
 所有类型都进行了正确的展示.Ok,入门完成.
