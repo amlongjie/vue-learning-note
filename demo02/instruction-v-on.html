@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My first Vue app</title>
+    <script src="https://unpkg.com/vue"></script>
+</head>
+<body>
+<div id="app">
+    <button v-on:click="doAlert('Hello Vue')">click me</button>
+</div>
+
+<script>
+    var app = new Vue({
+        el: '#app',
+        methods : {
+            doAlert: function (message) {
+                alert(message);
+            }
+        }
+    })
+</script>
+</body>
+</html>

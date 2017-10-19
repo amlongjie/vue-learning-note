@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My first Vue app</title>
+    <script src="https://unpkg.com/vue"></script>
+</head>
+<body>
+<div id="app">
+    <ul>
+        <li v-for="(value, key) in person">
+            {{ key }} - {{ value }}
+        </li>
+    </ul>
+</div>
+
+<script>
+    var app = new Vue({
+        el: '#app',
+        data: {
+            person: {id: 1, name : "peter", age : 12}
+        }
+    })
+</script>
+
+</body>
+</html>
