@@ -68,7 +68,7 @@ var app = new Vue({
 ```
 
 1.  创建了一个Vue对象.
-2.  el的值和上面div的id对应.根据写法不难看出就是绑定到id位app的元素(element)上.
+2.  el的值和上面div的id对应.根据写法不难看出就是绑定到id为app的元素(element)上.
 3.  data字段里有message,也不难看出和div内部的{{ message }}.而这个大括号的模板语法.在很多后端语言都有.
 
 根据这个Hello World,我们可以看出.Vue确实看起来比较简单,好写.不像angular那样门槛叫高.一上来就比较复杂.
