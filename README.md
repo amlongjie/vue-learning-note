@@ -273,6 +273,13 @@ var app = new Vue({
 
 官网对指令还有更多的介绍.可以去参考.[一键跳转到文档](https://cn.vuejs.org/v2/guide)
 
+## 账户管理功能
+
+根据前面学习的知识点,实现一个简单的账户管理功能.效果图如下
+
+![](http://upload-images.jianshu.io/upload_images/2656062-b5e810eb2455fd97.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
+
+
 
 ## Github
 [代码一键直达](https://github.com/amlongjie/vue-learning-note)
